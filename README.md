@@ -8,6 +8,7 @@
 Hãy giải thích ngắn gọn các nội dung của Custom Instructions, Prompt Library, Prompt Injection.
 ```
 
+**Kết quả:**
 ```
 Xin chào! Chắc chắn rồi, mình sẽ giúp bạn.
 
